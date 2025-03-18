@@ -27,14 +27,22 @@
   },
   "smart_threads": {
     "chat_model": {
-      "adapter": "openai",
+      "adapter": "gemini",
       "openai": {
         "model_key": "gpt-4o"
+      },
+      "gemini": {
+        "model_key": "",
+        "api_key": "AIzaSyAJkJ4f_XEgKrRaIP645JHE5KB9_vkNun4"
       }
     },
     "embed_model": {
       "model_key": "None"
-    }
+    },
+    "language": "ja",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
   },
   "excluded_headings": ""
 }

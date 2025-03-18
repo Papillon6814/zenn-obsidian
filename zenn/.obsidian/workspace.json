@@ -157,8 +157,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -176,10 +176,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,7 +193,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "52971f4375c5aeda",
+  "active": "8e17969b137bc0e7",
   "lastOpenFiles": [
     "zenn/テスト.md",
     "Welcome.md",

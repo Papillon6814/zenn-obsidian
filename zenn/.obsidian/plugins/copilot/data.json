@@ -14,8 +14,8 @@
   "googleApiKey": "AIzaSyAJkJ4f_XEgKrRaIP645JHE5KB9_vkNun4",
   "openRouterAiApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4o|openai",
-  "embeddingModelKey": "text-embedding-3-small|openai",
+  "defaultModelKey": "gemini-2.0-flash|google",
+  "embeddingModelKey": "text-embedding-004|google",
   "temperature": 0.1,
   "maxTokens": 1000,
   "contextTurns": 15,
@@ -43,7 +43,7 @@
     {
       "name": "copilot-plus-flash",
       "provider": "copilot-plus",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -53,7 +53,7 @@
     {
       "name": "gpt-4o",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -63,7 +63,7 @@
     {
       "name": "gpt-4o-mini",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -73,7 +73,7 @@
     {
       "name": "claude-3-5-sonnet-latest",
       "provider": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "core": true,
       "capabilities": [
@@ -83,7 +83,7 @@
     {
       "name": "o1-mini",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
@@ -92,7 +92,7 @@
     {
       "name": "o3-mini",
       "provider": "openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
@@ -101,19 +101,19 @@
     {
       "name": "claude-3-5-haiku-latest",
       "provider": "anthropic",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "command-r",
       "provider": "cohereai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
       "name": "command-r-plus",
       "provider": "cohereai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     },
     {
@@ -137,7 +137,7 @@
     {
       "name": "azure-openai",
       "provider": "azure openai",
-      "enabled": true,
+      "enabled": false,
       "isBuiltIn": true
     }
   ],
