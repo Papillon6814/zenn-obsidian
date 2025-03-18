@@ -1,4 +1,8 @@
 [
   "obsidian-vimrc-support",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api",
+  "templater-obsidian",
+  "smart-connections",
+  "mcp-tools"
 ]
