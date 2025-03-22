@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zenn/テスト.md",
+                "file": "文章/襲撃.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テスト"
+              "title": "襲撃"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +194,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4126034270e72e55",
+  "active": "52971f4375c5aeda",
   "lastOpenFiles": [
-    "文章",
     "zenn/テスト.md",
+    "文章/襲撃.md",
+    "文章",
     "Welcome.md",
     "zenn"
   ]
