@@ -11,14 +11,10 @@
             "id": "52971f4375c5aeda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文章/襲撃.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "襲撃"
+              "title": "New tab"
             }
           }
         ]
@@ -170,6 +166,16 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "95b5c45647bc49be",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -196,8 +202,9 @@
   },
   "active": "52971f4375c5aeda",
   "lastOpenFiles": [
-    "zenn/テスト.md",
     "文章/襲撃.md",
+    "リアルタイム日記",
+    "zenn/テスト.md",
     "文章",
     "Welcome.md",
     "zenn"
