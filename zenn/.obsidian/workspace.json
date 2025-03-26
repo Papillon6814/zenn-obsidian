@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/template.md",
+                "file": "リアルタイム日記/2025-03-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "2025-03-26"
             }
           }
         ]
@@ -186,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +206,8 @@
   "active": "52971f4375c5aeda",
   "lastOpenFiles": [
     "リアルタイム日記/2025-03-26.md",
-    "template/template.md",
     "リアルタイム日記/2025-03-27.md",
+    "template/template.md",
     "template",
     "文章/襲撃.md",
     "リアルタイム日記",
