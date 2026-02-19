@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "2026-02-20"
             }
+          },
+          {
+            "id": "baaa38ed10cfdb33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -261,7 +273,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5b45e3ef021d7925",
+  "active": "baaa38ed10cfdb33",
   "lastOpenFiles": [
     "リアルタイム日記/2025-10-31.md",
     "リアルタイム日記/2026-02-20.md",

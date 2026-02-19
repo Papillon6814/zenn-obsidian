@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "openBehavior": "daily"
 }
